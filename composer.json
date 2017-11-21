@@ -1,0 +1,12 @@
+{
+    "name": "kargnas/laravel-job-trackable",
+    "require": {
+        "nesbot/carbon": "^1.22"
+    },
+    "authors": [
+        {
+            "name": "Sangrak Choi",
+            "email": "kars@kargn.as"
+        }
+    ]
+}
